@@ -1,2 +1,2 @@
-# hello-worlds
+# hello-world
 My name is Safi.
